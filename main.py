@@ -126,3 +126,4 @@ plt.title('Распределение HbA1c_level в группах с поло�
 plt.xlabel('Статус диабета')
 plt.ylabel('HbA1c_level')
 plt.show()
+#done
